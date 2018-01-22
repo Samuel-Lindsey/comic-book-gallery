@@ -7,7 +7,7 @@ using System.Web.Mvc.Ajax;
 
 namespace ComicBookGallery.Controllers
 {
-    public class ComicBooksController
+    public class ComicBooksController : Controller
     {
         
     }
