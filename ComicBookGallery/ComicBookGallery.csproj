@@ -146,6 +146,7 @@
     <Content Include="Global.asax" />
     <Content Include="packages.config" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\ComicBooks\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\ComicBooks\Detail.cshtml" />
